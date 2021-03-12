@@ -1,0 +1,7 @@
+type Query {
+    workflow:Workflow
+}
+
+type Workflow {
+    displayName: String
+}
